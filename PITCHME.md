@@ -5,13 +5,12 @@ Christof Täschler
 
 ---
 
-### Was ist Corporate Design?
+### Was ist Corporate Design? |
 
 - und was ist Corporate Identity? |
 - 2 |
 - 3 |
-- 4 
-
+- 4 |
 ---
 
 # Black
