@@ -1,11 +1,11 @@
-## Corporate Design (UX) 
+### Corporate Design + UX
 
 Schule für Gestaltung Zürich 2018 <br>
-Christof Täschler
+_Christof Täschler_
 
 ---
 
-### Was ist Corporate Design? |
+### Was ist Corporate Design? 
 
 - und was ist Corporate Identity? |
 - 2 |
@@ -13,8 +13,8 @@ Christof Täschler
 - 4 |
 ---
 
-# Black
-
+# Eins  
+## Zwei
 ### A GitPitch Presentation Template
 
 ---
