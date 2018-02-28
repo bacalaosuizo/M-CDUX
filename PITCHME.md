@@ -135,5 +135,4 @@ http.createServer(function (request, response) {
 ### [Download this template @fa[external-link gp-download]](https://gitpitch.com/template/download/black)
 
 
-
 ![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
