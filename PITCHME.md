@@ -1,4 +1,4 @@
-### Corporate Design + UX
+## Corporate Design + UX
 
 Schule für Gestaltung Zürich 2018 <br>
 _Christof Täschler_
@@ -13,9 +13,16 @@ _Christof Täschler_
 - 4 |
 ---
 
-# Eins  
-## Zwei
 ### A GitPitch Presentation Template
+
+---
+
+### Fliesstext sieht so aus:
+Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nulla vitae elit libero, a pharetra augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+
+Nullam id dolor id nibh ultricies vehicula ut id elit. Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum id ligula porta felis euismod semper. Cras mattis consectetur purus sit amet fermentum. Nulla vitae elit libero, a pharetra augue.
+
+
 
 ---
 
@@ -37,12 +44,6 @@ _Christof Täschler_
 - Slideshow Background Image |
 - Slide-specific Background Images |
 - Custom Logo, TOC, and Footnotes |
-
----?code=sample/go/server.go&lang=golang&title=Golang File
-
-@[1,3-6](Present code found within any repo source file.)
-@[8-18](Without ever leaving your slideshow.)
-@[19-28](Using GitPitch code-presenting with (optional) annotations.)
 
 ---
 
@@ -85,7 +86,7 @@ http.createServer(function (request, response) {
 
 ---
 
-## Template Help
+## Links
 
 - [Code Presenting](https://github.com/gitpitch/gitpitch/wiki/Code-Presenting)
   + [Repo Source](https://github.com/gitpitch/gitpitch/wiki/Code-Delimiter-Slides), [Static Blocks](https://github.com/gitpitch/gitpitch/wiki/Code-Slides), [GIST](https://github.com/gitpitch/gitpitch/wiki/GIST-Slides) 
