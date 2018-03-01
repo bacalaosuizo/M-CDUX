@@ -1,19 +1,29 @@
 ## Corporate Design + UX
 
 Schule für Gestaltung Zürich 2018 <br>
-_Christof Täschler_
 
 ---
 
-#### Was sind Corporate Design… 
-<br>
-#### …und was corporate Identity
+#### Christof Täschler
+- Grafiker |
+- Screendesigner |
+- Interaction Designer |
+- UX/UI-Designer |
+
+---
+
+#### Corporate Design 
+≠
+#### Corporate Identity
 
 
 
 ---
 
-#### Was ist UX- und UI-Design?
+#### UX- und UI-Design?
+
+- User Experience Design |
+- User Interface Design |
 
 ---
 
