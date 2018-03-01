@@ -1,4 +1,4 @@
-## Corporate Design (UX)
+## Modul Corporate Design (UX)
 
 Schule für Gestaltung Zürich 2018 <br>
 
@@ -6,7 +6,8 @@ Schule für Gestaltung Zürich 2018 <br>
 
 #### Christof Täschler
 - Grafiker |
-- Screendesigner |
+- Web Designer |
+- Screen Designer |
 - Interaction Designer |
 - UX/UI-Designer |
 
@@ -49,6 +50,7 @@ Schule für Gestaltung Zürich 2018 <br>
 - Styleguide. |
 
 ---
+
 
 ### Links
 
