@@ -5,95 +5,48 @@ _Christof Täschler_
 
 ---
 
-### Was ist Corporate Design? 
-
-- und was ist Corporate Identity? |
-- 2 |
-- 3 |
-- 4 |
----
-
-### A GitPitch Presentation Template
+### Was ist Corporate Design…? 
 
 ---
 
-### Fliesstext sieht so aus:
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nulla vitae elit libero, a pharetra augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum id ligula porta felis euismod semper. Cras mattis consectetur purus sit amet fermentum. Nulla vitae elit libero, a pharetra augue.
-
-
-
----
-
-## Tips!
-
+### Was ist ein Corporate Design…? 
 <br>
-
-@fa[arrows gp-tip](Press F to go Fullscreen)
-
-@fa[microphone gp-tip](Press S for Speaker Notes)
+### …und was eine Corporate Identity?
 
 ---
 
-## Template Features
-
-- Code Presenting |
-- Repo Source, Static Blocks, GIST |
-- Custom CSS Styling |
-- Slideshow Background Image |
-- Slide-specific Background Images |
-- Custom Logo, TOC, and Footnotes |
+### Was ist UX- und UI-Design?
 
 ---
 
-@title[JavaScript Block]
 
-<p><span class="slide-title">JavaScript Block</span></p>
+## Übung 1 CI-CD
 
-```javascript
-// Include http module.
-var http = require("http");
+- Kurzübung |
+- nimm zwei Marken die das Selbe Produkt/Angebot/Service haben (z. b. Toyota/Renault, Puma/Adidas, usw.) |
+- vergleiche die Webauftritte |
+- gib es Ähnlichkeiten? Unterschiede? |
+- präsentiere die Findings der Klasse (2-3 Min)
 
-// Create the server. Function passed as parameter
-// is called on every request made.
-http.createServer(function (request, response) {
-  // Attach listener on end event.  This event is
-  // called when client sent, awaiting response.
-  request.on("end", function () {
-    // Write headers to the response.
-    // HTTP 200 status, Content-Type text/plain.
-    response.writeHead(200, {
-      'Content-Type': 'text/plain'
-    });
-    // Send data and end response.
-    response.end('Hello HTTP!');
-  });
+---
 
-// Listen on the 8080 port.
-}).listen(8080);
-```
+## Projekt CD und Webauftritt 
 
-@[1,2](You can present code inlined within your slide markdown too.)
-@[9-17](Displayed using code-syntax highlighting just like your IDE.)
-@[19-20](Again, all of this without ever leaving your slideshow.)
+- Hauptprojekt, bis Ende April (6 x Freitag) |
+- Entwicklung eines Corporate Design,… |
+- … mit einem responsiven Logo/Schriftzug, Iconsystem… |
+- … Farb- und Typodefinitionen. |  
+- Eine responisive Landingpage/Onepager in mind. 3 Auflösungen: |
+- skizziert, gelayoutet und in einem Mockup präsentiert. |
+- Styleguide.
 
----?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&lang=scala&title=Scala GIST
-
-@[23](You can even present code found within any GitHub GIST.)
-@[41-53](GIST source code is beautifully rendered on any slide.)
-@[57-62](And code-presenting works seamlessly for GIST too, both online and offline.)
 
 ---
 
 ## Links
 
-- [Code Presenting](https://github.com/gitpitch/gitpitch/wiki/Code-Presenting)
-  + [Repo Source](https://github.com/gitpitch/gitpitch/wiki/Code-Delimiter-Slides), [Static Blocks](https://github.com/gitpitch/gitpitch/wiki/Code-Slides), [GIST](https://github.com/gitpitch/gitpitch/wiki/GIST-Slides) 
-- [Custom CSS Styling](https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS)
-- [Slideshow Background Image](https://github.com/gitpitch/gitpitch/wiki/Background-Setting)
-- [Slide-specific Background Images](https://github.com/gitpitch/gitpitch/wiki/Image-Slides#background)
-- [Custom Logo](https://github.com/gitpitch/gitpitch/wiki/Logo-Setting) [TOC](https://github.com/gitpitch/gitpitch/wiki/Table-of-Contents) [Footnotes](https://github.com/gitpitch/gitpitch/wiki/Footnote-Setting)
+- [Good Road Design](https://principles.design/examples/10-principles-of-good-road-design)
+- [less Good Road Design](https://www.instagram.com/p/BdN3zBDBflL/?hl=de)
 
 ---
 
