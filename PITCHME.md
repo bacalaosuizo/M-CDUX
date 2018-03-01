@@ -26,7 +26,7 @@ _Christof Täschler_
 - nimm zwei Marken die das Selbe Produkt/Angebot/Service haben (z. b. Toyota/Renault, Puma/Adidas, usw.) |
 - vergleiche die Webauftritte |
 - gib es Ähnlichkeiten? Unterschiede? |
-- präsentiere die Findings der Klasse (2-3 Min)
+- präsentiere die Findings der Klasse (2-3 Min) |
 
 ---
 
