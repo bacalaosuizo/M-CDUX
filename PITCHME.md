@@ -5,8 +5,9 @@ _Christof Täschler_
 
 ---
 
-#### Was ist Corporate Design… |
-#### …und was corporate Identity |
+#### Was sind Corporate Design… 
+<br>
+#### …und was corporate Identity
 
 
 
