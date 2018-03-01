@@ -5,22 +5,22 @@ _Christof Täschler_
 
 ---
 
-### Was ist Corporate Design…? 
+#### Was ist Corporate Design…? 
 
 ---
 
-### Was ist ein Corporate Design…? 
+#### Was ist ein Corporate Design…? 
 <br>
-### …und was eine Corporate Identity?
+#### …und was eine Corporate Identity?
 
 ---
 
-### Was ist UX- und UI-Design?
+#### Was ist UX- und UI-Design?
 
 ---
 
 
-## Übung 1 CI-CD
+### Übung 1 CI-CD
 
 - Kurzübung |
 - nimm zwei Marken die das Selbe Produkt/Angebot/Service haben (z. b. Toyota/Renault, Puma/Adidas, usw.) |
@@ -30,7 +30,7 @@ _Christof Täschler_
 
 ---
 
-## Projekt CD und Webauftritt 
+### Projekt CD und Webauftritt 
 
 - Hauptprojekt, bis Ende April (6 x Freitag) |
 - Entwicklung eines Corporate Design,… |
@@ -38,19 +38,19 @@ _Christof Täschler_
 - … Farb- und Typodefinitionen. |  
 - Eine responisive Landingpage/Onepager in mind. 3 Auflösungen: |
 - skizziert, gelayoutet und in einem Mockup präsentiert. |
-- Styleguide.
+- Styleguide.|
 
 
 ---
 
-## Links
+### Links
 
 - [Good Road Design](https://principles.design/examples/10-principles-of-good-road-design)
 - [less Good Road Design](https://www.instagram.com/p/BdN3zBDBflL/?hl=de)
 
 ---
 
-## Go GitPitch Pro!
+### Go GitPitch Pro!
 
 <br>
 <div class="left">
