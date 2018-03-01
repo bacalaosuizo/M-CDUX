@@ -1,4 +1,4 @@
-## Corporate Design + UX
+## Corporate Design (UX)
 
 Schule für Gestaltung Zürich 2018 <br>
 
