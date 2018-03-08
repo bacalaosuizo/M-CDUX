@@ -15,14 +15,30 @@
 - User-Centered Design (UCD) ist ein Entwicklungsverfahren für Applikationen, Prozesse und Produkte, bei dem die späteren Benutzer (User) von Anfang an einbezogen werden. Dadurch wird sichergestellt, dass der Aufbau, die Inhalte und deren Form sowie das Design des Endprodukts massgeblich von den Bedürfnissen, Erwartungen und dem Verständnis der User bestimmt werden. 
 
 ---
-
-#### Wie wird das gemacht?
-- Wie erreichen wir eine gute UX?, User Centred Design,, |
--  
-- 
+#### Wer wird mein Produkt benutzen?
+- Wie ticken die User? |
+- Was sind ihre Vorlieben, Interessen? |  
+- Wann und wo nutzen nutzen sie das Produkt? |
+- usw. |
 
 ---
 
+#### Wie wird das gemacht?
+- Wie erreichen wir eine gute UX? |
+- Wie erreichen wir eine gute Usability?|
+- Wie entwickeln wir User Centred? |
+
+---
+
+#### Die Werkzeuge = UX Methoden
+
+- Übung 30 Min
+- Präsentiert in Teams eine UX Methode |
+- Erklärt Funktion und Nutzen |
+- Wann macht die Methode Sinn? |
+- Präsentiert verbal und visuell (5 min) |
+
+---
 
 #### UX Methoden - eine Auswahl
 - Benchmarking-Test |
@@ -30,21 +46,12 @@
 - Card Sorting |
 - Usability-Test |
 - Tiefeninterviews |
-- Kickoff Meeting, |
+- Kickoff Meeting |
+- Eye-Tracking
 - usw. |
 
 ---
 
-#### Wer wird mein Produkt benutzen?
-- Wie ticken die User? |
-- Was sind ihre Vorlieben, Interessen? |  
-- Wann und wo nutzen nutzen sie das Produkt? |
-
----
-
-#### Übung 2: Personas
-- What to do:
-- tbd
 
 ---
 
