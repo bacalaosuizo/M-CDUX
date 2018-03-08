@@ -18,7 +18,6 @@
 
 ---
 
-
 - Wer wird mein Produkt benutzen? |
 - Was erwarten die User? |
 - Wann und wo nutzen sie das Produkt? |
