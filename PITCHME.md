@@ -32,11 +32,10 @@
 
 #### Die Werkzeuge = UX Methoden
 
-- Übung 30 Min
 - Präsentiert in Teams eine UX Methode |
 - Erklärt Funktion und Nutzen |
 - Wann macht die Methode Sinn? |
-- Präsentiert verbal und visuell (5 min) |
+- Präsentiert verbal und visuell (5 - 10 Min) |
 
 ---
 
@@ -49,9 +48,6 @@
 - Kickoff Meeting |
 - Eye-Tracking
 - usw. |
-
----
-
 
 ---
 
