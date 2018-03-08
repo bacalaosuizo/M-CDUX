@@ -1,12 +1,13 @@
 #### User Experience
 
-- Der Begriff User Experience (Abkürzung UX, deutsch wörtlich Nutzererfahrung, besser Nutzererlebnis oder Nutzungserlebnis) umschreibt alle Aspekte der Erfahrungen eines Nutzers bei der Interaktion mit einem Produkt, Dienst, einer Umgebung oder Einrichtung.
+- Der Begriff User Experience *(Abkürzung UX, deutsch wörtlich Nutzererfahrung, besser Nutzererlebnis oder Nutzungserlebnis)* umschreibt alle Aspekte der Erfahrungen eines Nutzers bei der Interaktion mit einem Produkt, Dienst, einer Umgebung oder Einrichtung.
 
 ---
 
 #### Usability 
-«Extent to which a product can be used by specified users to achieve specified goals with effectiveness, efficiency and satisfaction in a specified context of use.» (ISO 9241-11:1998)
-- Wie gut (Präzision des Ergebnisses, Ressourcenaufwand, positive Assoziationen) eignet sich das Produkt, bestimmte Ziele in einem bestimmten Kontext zu erreichen?
+«Extent to which a product can be used by specified users to achieve specified goals with effectiveness, efficiency and satisfaction in a specified context of use.» (ISO 9241-11:1998)  
+
+> Wie gut *(Präzision des Ergebnisses, Ressourcenaufwand, positive Assoziationen)* eignet sich das Produkt, bestimmte Ziele in einem bestimmten Kontext zu erreichen?
 
 ---
 
@@ -15,13 +16,10 @@
 
 ---
 
-#### UX Methoden
--  |
-- Personas,  Card Sorting, Usability-Test|
--  |
--  |
--  |
-- usw.
+#### Wie wird das gemacht?
+- Wie erreichen wir eine gute UX?, User Centred Design,, |
+-  
+- 
 
 ---
 
