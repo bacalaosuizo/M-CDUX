@@ -48,7 +48,7 @@
 - Usability-Test |
 - Tiefeninterviews |
 - Kickoff Meeting |
-- Eye-Tracking
+- Eye-Tracking |
 - usw. |
 
 ---
