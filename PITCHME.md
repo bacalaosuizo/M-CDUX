@@ -1,60 +1,57 @@
-## Corporate Design (UX)
+#### User Experience
 
-Schule für Gestaltung Zürich <br> 
-2018
-
----
-
-#### Christof Täschler
-- Grafiker |
-- Web Designer |
-- Screen Designer |
-- Interaction Designer |
-- UX/UI-Designer |
+- Der Begriff User Experience (Abkürzung UX, deutsch wörtlich Nutzererfahrung, besser Nutzererlebnis oder Nutzungserlebnis – es wird auch häufig vom Anwendererlebnis gesprochen) umschreibt alle Aspekte der Erfahrungen eines Nutzers bei der Interaktion mit einem Produkt, Dienst, einer Umgebung oder Einrichtung. (Wikipedia)
 
 ---
 
-#### Corporate Design 
-≠
-#### Corporate Identity
-
-
+#### Usability 
+«Extent to which a product can be used by specified users to achieve specified goals with effectiveness, efficiency and satisfaction in a specified context of use.» (ISO 9241-11:1998)
+- Wie gut (Präzision des Ergebnisses, Ressourcenaufwand, positive Assoziationen) eignet sich das Produkt, bestimmte Ziele in einem bestimmten Kontext zu erreichen?
 
 ---
 
-#### UX- und UI-Design?
+#### User Centred Design
+- User-Centered Design (UCD) ist ein Entwicklungsverfahren für Applikationen, Prozesse und Produkte, bei dem die späteren Benutzer (User) von Anfang an einbezogen werden. Dadurch wird sichergestellt, dass der Aufbau, die Inhalte und deren Form sowie das Design des Endprodukts massgeblich von den Bedürfnissen, Erwartungen und dem Verständnis der User bestimmt werden. 
 
-- User Experience Design |
-- User Interface Design |
+---
+
+#### UX Methoden
+-  |
+- Personas,  Card Sorting, Usability-Test|
+-  |
+-  |
+-  |
+- usw.
 
 ---
 
 
-#### Übung 1 CI-CD
-
-- Kurzübung |
-- nimm zwei Marken die das Selbe Produkt/Angebot/Service haben (z. b. Toyota/Renault, Puma/Adidas, usw.) |
-- vergleiche die Webauftritte |
-- gib es Ähnlichkeiten? Unterschiede? |
-- präsentiere die Findings der Klasse (2-3 Min) |
-
----
-
-### Projekt CD und Webauftritt 
-
-- Hauptprojekt, bis Ende April (6 x Freitag) |
-- Entwicklung eines Corporate Design,… |
-- … mit einem responsiven Logo/Schriftzug, Iconsystem… |
-- … Farb- und Typodefinitionen. |  
-- Eine responisive Landingpage/Onepager in mind. 3 Auflösungen: |
-- skizziert, gelayoutet und in einem Mockup präsentiert. |
-- Styleguide. |
+#### UX Methoden - eine Auswahl
+- Benchmarking-Test |
+- Personas |
+- Card Sorting |
+- Usability-Test |
+- Tiefeninterviews |
+- Kickoff Meeting, |
+- usw. |
 
 ---
 
+#### Wer wird mein Produkt benutzen?
+- Wie ticken die User? |
+- Was sind ihre Vorlieben, Interessen? |  
+- Wann und wo nutzen nutzen sie das Produkt? |
+
+---
+
+#### Übung 2: Personas
+- What to do:
+- tbd
+
+---
 
 ### Links
 
-- [Good Road Design](https://principles.design/examples/10-principles-of-good-road-design)
-- [less Good Road Design](https://www.instagram.com/p/BdN3zBDBflL/?hl=de)
+- [UX Methoden](https://www.usability.de/leistungen/methoden.html)
+- 
 
