@@ -1,6 +1,6 @@
 #### User Experience
 
-- Der Begriff User Experience (Abkürzung UX, deutsch wörtlich Nutzererfahrung, besser Nutzererlebnis oder Nutzungserlebnis – es wird auch häufig vom Anwendererlebnis gesprochen) umschreibt alle Aspekte der Erfahrungen eines Nutzers bei der Interaktion mit einem Produkt, Dienst, einer Umgebung oder Einrichtung. (Wikipedia)
+- Der Begriff User Experience (Abkürzung UX, deutsch wörtlich Nutzererfahrung, besser Nutzererlebnis oder Nutzungserlebnis) umschreibt alle Aspekte der Erfahrungen eines Nutzers bei der Interaktion mit einem Produkt, Dienst, einer Umgebung oder Einrichtung.
 
 ---
 
