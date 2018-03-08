@@ -13,13 +13,15 @@
 - User-Centered Design (UCD) ist ein Entwicklungsverfahren für Applikationen, Prozesse und Produkte, bei dem die späteren Benutzer (User) von Anfang an einbezogen werden. |
 
 ---
+
 - Dadurch wird sichergestellt, dass der Aufbau, die Inhalte und deren Form sowie das Design des Endprodukts massgeblich von den Bedürfnissen, Erwartungen und dem Verständnis der User bestimmt werden. 
-- 
- ---
- 
-- *Wer* wird mein Produkt benutzen? |
-- *Was* erwarten die User? |
-- *Wann und wo* nutzen brauchen sie das Produkt? |
+
+---
+
+
+- Wer wird mein Produkt benutzen? |
+- Was erwarten die User? |
+- Wann und wo nutzen sie das Produkt? |
 - usw. |
 
 ---
